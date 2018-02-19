@@ -3,7 +3,7 @@
   width: 300px;
   margin-left: 20px;
   padding: 10px 20px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #888;
 }
 
 .picture {
@@ -23,11 +23,11 @@
   font-style: italic;
 }
 
-span {
+span .details {
   font-weight: bold;
 }
 
-ul {
+ul .informationList {
   list-style-type: none;
   margin: 0;
   padding: 0;
